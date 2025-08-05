@@ -39,6 +39,7 @@
   "author": "Template Project",
   "license": "MIT",
   "dependencies": {
+    "animate.css": "^4.1.1",
     "chalk": "^4.1.2",
     "fs-extra": "^10.1.0",
     "jsdom": "^20.0.3",
