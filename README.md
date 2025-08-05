@@ -75,11 +75,12 @@
 # プロジェクト名 (例: 2025-08-04-sample-project)
 
 ## 概要
-- **作成日**: 2025-08-04
-- **目的**: [プロジェクトの簡単な説明]
-- **使用技術**: [例: Python, Flask]
+- **作成日**: 2025-08-05
+- **目的**: Device-C Documentation Enhancement - 包括的ドキュメント管理システム
+- **使用技術**: Markdown, JSDoc, GitBook
+- **Device-C改善**: API仕様書、設定ガイド、ベストプラクティス
 
-## セットアップ
+## 
 1. リポジトリをクローン: `git clone https://github.com/daily-projects/2025-08-04-sample-project.git`
 2. 環境セットアップ: `npm run setup`（Node.js + Python）
 3. 依存関係をインストール: `pip install -r requirements.txt`

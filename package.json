@@ -56,5 +56,9 @@
   "homepage": "https://github.com/muumuu8181/0000-00-00-project-template",
   "bugs": {
     "url": "https://github.com/muumuu8181/0000-00-00-project-template/issues"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.4",
+    "markdown-it": "^14.1.0"
   }
 }
