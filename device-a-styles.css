@@ -1,0 +1,17 @@
+/* Device A専用スタイル */
+.device-a-button {
+    background: linear-gradient(45deg, #ff6b6b, #ee5a24);
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.device-a-header {
+    background: #3742fa;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
